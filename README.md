@@ -1,9 +1,9 @@
 # Tutorials
 
-This repository contains tutorial scripts for applications in chemical engineering
+This repository contains tutorial scripts for applications of math and computation in chemical engineering
 
 ## CBE660
 
-This subfolder contains tutorials as Jupyter notebooks originally used in the class CBE660 taught at the University of Wisconsin-Madison. These tutorials cover different statistics and data analsys techniques.
+This subfolder contains Python tutorials as Jupyter notebooks originally used in the class CBE660:"Intermediate Problems of Chemical Engineering"; this is an advanced mathematics and computation course taught in the Department of Chemical and Biological Engineering at the University of Wisconsin-Madison. The tutorials cover diverse techniques from data analysis and machine learning. 
 
-Each notebook includes a link to open the notebook on Google Colab. 
+Each Jupyter notebook includes a link to Google Colab. 
